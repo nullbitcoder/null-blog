@@ -11,11 +11,11 @@ description: This Blog is for current projects, research, and or things I think 
 github_username: nullbitcoder
 
 # Email and twitter are optional:
-email:lxxxl1146@gmail.com
-twitter_username:nullcoder1
+email: 
+twitter_username: nullcoder1
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
