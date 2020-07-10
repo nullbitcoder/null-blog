@@ -1,4 +1,4 @@
-Hello, welcome to the blog, I'm Dave a Computer Science student, and below are posts on some of the projects I'm currently working on. 
+Hello, welcome to the blog, I'm Dave a Computer Science student, and below are posts on *projects* I'd like to share with you. 
 
 ## *Thanks for stopping by*
 
